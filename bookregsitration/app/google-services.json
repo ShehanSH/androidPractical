@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "476375556192",
+    "project_id": "bookregsitration-4d0dd",
+    "storage_bucket": "bookregsitration-4d0dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476375556192:android:243117b6de3ed1ab8b6305",
+        "android_client_info": {
+          "package_name": "com.example.bookregsitration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476375556192-alu4t4nq5kpckn8iqbc7snr5koj82hbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuG4poFuljKv0rvqqcollNrI1DeTIr7YQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476375556192-alu4t4nq5kpckn8iqbc7snr5koj82hbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
